@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab11.Domain\Lab11.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="*" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="*" />
+    <PackageReference Include="MediatR" Version="*" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="*" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

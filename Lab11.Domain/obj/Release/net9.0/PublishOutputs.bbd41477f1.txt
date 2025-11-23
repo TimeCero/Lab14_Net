@@ -1,0 +1,3 @@
+D:\6to semestre\Desarrollo de aplicaciones empresariales avanzado\Lab11_AndreGonzales\Lab11.Domain\bin\Release\net9.0\publish\Lab11.Domain.dll
+D:\6to semestre\Desarrollo de aplicaciones empresariales avanzado\Lab11_AndreGonzales\Lab11.Domain\bin\Release\net9.0\publish\Lab11.Domain.deps.json
+D:\6to semestre\Desarrollo de aplicaciones empresariales avanzado\Lab11_AndreGonzales\Lab11.Domain\bin\Release\net9.0\publish\Lab11.Domain.pdb
